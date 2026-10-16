@@ -1,0 +1,249 @@
+{
+  "schema_version": "scholar-formal-public-figures-v1",
+  "stage": "formal",
+  "generated_at": "2026-10-16T13:51:45.729792+00:00",
+  "statistics_sha256": "b28be82d1b7daec1f59e091fbdd06d43205c79662d1d77f8f7b756b27ec4e6a8",
+  "source_csv_sha256": "d35074e76bfca488a722493eb3bc0dc0ebbb5dbede2e5195bb98c56bdd9ca0d0",
+  "typography": {
+    "family": "DFPLiSong SC2",
+    "title_weight": "bold"
+  },
+  "figures": [
+    {
+      "item_id": "1",
+      "variant": "anonymous",
+      "path": "P01_anonymous.png",
+      "title": "P1 · 总发表数量",
+      "caption": "",
+      "alt": "总发表数量，匿名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "ed1261535e8ab963891d65976448fcebdaecaa7a70245024aac2efe9234cba21",
+      "geometry_fingerprint": "38d16f6796dd746e8e33a352fc592fa69e32d9cafcc1399a8757457eedc14e63"
+    },
+    {
+      "item_id": "2",
+      "variant": "anonymous",
+      "path": "P02_anonymous.png",
+      "title": "P2 · 近五年发表数量",
+      "caption": "",
+      "alt": "近五年发表数量，匿名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "0484dafbf9b16e4892120b2d4b1c2a9a6475b1876b517ce272381d831a16669e",
+      "geometry_fingerprint": "542019eb1badfd59f717bc1cb761ea4bfc30ed9533c96979bce25727405e8d4b"
+    },
+    {
+      "item_id": "3",
+      "variant": "anonymous",
+      "path": "P03_anonymous.png",
+      "title": "P3 · 近一年发表数量",
+      "caption": "",
+      "alt": "近一年发表数量，匿名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "c5b6906a2bfbf150210b66249ddb206e1c6a31e9dae2fd1a6301761ea0cd5db4",
+      "geometry_fingerprint": "975776573ffd09241395b3077be744fe03e08f924b8c502a04d7fbfd32a28edc"
+    },
+    {
+      "item_id": "4",
+      "variant": "anonymous",
+      "path": "P04_anonymous.png",
+      "title": "P4 · 篇均引用",
+      "caption": "",
+      "alt": "篇均引用，匿名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "185e7188a0ec037f185cc0e18b35282500befcafdd45ce1ffb773fb19abaa80d",
+      "geometry_fingerprint": "6326e1a5e0e9d32998892775528fdcd4f003ddb41ef13ca9afa042abe2db149b"
+    },
+    {
+      "item_id": "5",
+      "variant": "anonymous",
+      "path": "P05_anonymous.png",
+      "title": "P5 · 近五年单论文最高引用",
+      "caption": "",
+      "alt": "近五年单论文最高引用，匿名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "54997f9e009c21d74a0d7636b736b98ce669bc4d76b646bbedcf55ad055994c0",
+      "geometry_fingerprint": "817fc0d777a51ec8adf33cf84cb4a3de98256e59bf73734ba2f1d688f84cf399"
+    },
+    {
+      "item_id": "6",
+      "variant": "anonymous",
+      "path": "P06_anonymous.png",
+      "title": "P6 · 近五年发表数量与篇均引用",
+      "caption": "",
+      "alt": "近五年发表数量与篇均引用，匿名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "77805a0617a5014ce3a6aaf27fc4a46d620f3ea189c742942e25b9820d94c879",
+      "geometry_fingerprint": "9a3644dcad22e4c6544920b99377faa921bfba513564e408ab59fbc19a20ee06"
+    },
+    {
+      "item_id": "7",
+      "variant": "anonymous",
+      "path": "P07_anonymous.png",
+      "title": "P7 · 近五年发表数量与单论文最高引用",
+      "caption": "",
+      "alt": "近五年发表数量与单论文最高引用，匿名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "f680238106aa57f9170c2ea8b6880758383050ebd75b9562c2d5e27424628626",
+      "geometry_fingerprint": "dcba3a97059acedeeab3b11c49231b35dfda1c6748955280b2761535fd2abda4"
+    },
+    {
+      "item_id": "8",
+      "variant": "anonymous",
+      "path": "P08_anonymous.png",
+      "title": "P8 · 近五年发表数量与一作累计引用",
+      "caption": "",
+      "alt": "近五年发表数量与一作累计引用，匿名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "a5dd3deb1326b0fa5898d0b45a173a3220376f0a065c361514086dacd554b84e",
+      "geometry_fingerprint": "69ac1373efc98add61e70c0a4d090776c1e0fd4c067c6aa788c0abf9eb63868f"
+    },
+    {
+      "item_id": "9",
+      "variant": "anonymous",
+      "path": "P09_anonymous.png",
+      "title": "P9 · 总发表数量与一作发表数量",
+      "caption": "",
+      "alt": "总发表数量与一作发表数量，匿名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "120a4b77829b7c112954c1ad13d60d00974cedf190110610e39d13e3fd3eadc9",
+      "geometry_fingerprint": "2baaa4bf4947cb9d8d886efdbf9c0e2757f76468dabb683adfd4ec50891ce7be"
+    },
+    {
+      "item_id": "1",
+      "variant": "named",
+      "path": "P01_named.png",
+      "title": "P1 · 总发表数量",
+      "caption": "",
+      "alt": "总发表数量，实名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "3bbd38ed841b7232e3f88929d3b02ac5bfa41357a51e5a912df0896a08c6ecae",
+      "geometry_fingerprint": "38d16f6796dd746e8e33a352fc592fa69e32d9cafcc1399a8757457eedc14e63"
+    },
+    {
+      "item_id": "2",
+      "variant": "named",
+      "path": "P02_named.png",
+      "title": "P2 · 近五年发表数量",
+      "caption": "",
+      "alt": "近五年发表数量，实名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "b4c3bbf6165e73ad63f3ef3f7fa653b016b69c48a7a617a63e6ab71a90390f31",
+      "geometry_fingerprint": "542019eb1badfd59f717bc1cb761ea4bfc30ed9533c96979bce25727405e8d4b"
+    },
+    {
+      "item_id": "3",
+      "variant": "named",
+      "path": "P03_named.png",
+      "title": "P3 · 近一年发表数量",
+      "caption": "",
+      "alt": "近一年发表数量，实名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "b4dcdbfbb44d2f11cbb28e95689bde43a12ca61022073c797ab87ab6a4ea3d92",
+      "geometry_fingerprint": "975776573ffd09241395b3077be744fe03e08f924b8c502a04d7fbfd32a28edc"
+    },
+    {
+      "item_id": "4",
+      "variant": "named",
+      "path": "P04_named.png",
+      "title": "P4 · 篇均引用",
+      "caption": "",
+      "alt": "篇均引用，实名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "2eec9691457be781f2d612530339b742c4dc3749641027331150e0650ad0a169",
+      "geometry_fingerprint": "6326e1a5e0e9d32998892775528fdcd4f003ddb41ef13ca9afa042abe2db149b"
+    },
+    {
+      "item_id": "5",
+      "variant": "named",
+      "path": "P05_named.png",
+      "title": "P5 · 近五年单论文最高引用",
+      "caption": "",
+      "alt": "近五年单论文最高引用，实名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "a01377604d76df04177653d879eb6b9d251a72e6028ee3fee0cf769db7bb1d84",
+      "geometry_fingerprint": "817fc0d777a51ec8adf33cf84cb4a3de98256e59bf73734ba2f1d688f84cf399"
+    },
+    {
+      "item_id": "6",
+      "variant": "named",
+      "path": "P06_named.png",
+      "title": "P6 · 近五年发表数量与篇均引用",
+      "caption": "",
+      "alt": "近五年发表数量与篇均引用，实名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "25d364a0f8dc47116b4b424fd85d825e33d157ad4b964d5fccf8dff42154e2c7",
+      "geometry_fingerprint": "9a3644dcad22e4c6544920b99377faa921bfba513564e408ab59fbc19a20ee06"
+    },
+    {
+      "item_id": "7",
+      "variant": "named",
+      "path": "P07_named.png",
+      "title": "P7 · 近五年发表数量与单论文最高引用",
+      "caption": "",
+      "alt": "近五年发表数量与单论文最高引用，实名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "643abb8f173b7549e2c728d1307c1af028482898d4fe0e6f34b97d62075d4d8a",
+      "geometry_fingerprint": "dcba3a97059acedeeab3b11c49231b35dfda1c6748955280b2761535fd2abda4"
+    },
+    {
+      "item_id": "8",
+      "variant": "named",
+      "path": "P08_named.png",
+      "title": "P8 · 近五年发表数量与一作累计引用",
+      "caption": "",
+      "alt": "近五年发表数量与一作累计引用，实名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "3b095ecc5a9df31a66a6de0c407c759295bc77b6d8f02d18637ee036c42e22e4",
+      "geometry_fingerprint": "69ac1373efc98add61e70c0a4d090776c1e0fd4c067c6aa788c0abf9eb63868f"
+    },
+    {
+      "item_id": "9",
+      "variant": "named",
+      "path": "P09_named.png",
+      "title": "P9 · 总发表数量与一作发表数量",
+      "caption": "",
+      "alt": "总发表数量与一作发表数量，实名版",
+      "width": 3600,
+      "height": 2700,
+      "sha256": "f6143d26f57f757f73cada64679e039acdc05962522a8e74f60632ae4f434173",
+      "geometry_fingerprint": "2baaa4bf4947cb9d8d886efdbf9c0e2757f76468dabb683adfd4ec50891ce7be"
+    }
+  ],
+  "overview": {
+    "path": "overview_3x3_anonymous.png",
+    "sha256": "f33f68fff131f7bd5fa5c008320ebcbaa594138fa994fe187cf2016cac5dfe72",
+    "width": 7392,
+    "height": 5592,
+    "rows": 3,
+    "columns": 3
+  },
+  "named_archive": {
+    "path": "named_all_9_figures.zip",
+    "sha256": "4b41305ae427706cca8762f57f3c7fe51029d6170039df8720c063592e03e397",
+    "files_n": 9
+  },
+  "named_individual_images_published": true,
+  "display_variants": [
+    "anonymous",
+    "named"
+  ],
+  "default_variant": "anonymous",
+  "audience_note": "Sites镜像按用户要求允许所有访客切换匿名与实名图片；原报告未改。"
+}

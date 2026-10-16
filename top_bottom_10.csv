@@ -1,0 +1,101 @@
+﻿analysis_id,list,display_order,rank,id,name,anon_id,institution,institution_pdf,country,value,raw_precision,unit
+1,top10,1,1,S119,左旺孟,样本102,哈尔滨工业大学,哈尔滨工业大学,中国,881,881,篇
+1,top10,2,2,S019,Jiebo Luo,样本009,University of Rochester,University of Rochester,美国,830,830,篇
+1,top10,3,3,S117,周少华,样本068,中国科学技术大学,中国科学技术大学,中国,813,813,篇
+1,top10,4,4,S076,山世光,样本095,中科院计算所,中科院计算所,中国,734,734,篇
+1,top10,5,5,S077,沈春华,样本104,浙江大学,浙江大学,中国,576,576,篇
+1,top10,6,6,S027,Junsong Yuan,样本071,State University of New York at Buffalo,State University of New York at Buffalo,美国,547,547,篇
+1,top10,7,7,S087,王亮,样本042,中科院自动化研究所,中科院自动化研究所,中国,546,546,篇
+1,top10,8,8,S069,罗平,样本020,香港大学,香港大学,中国,540,540,篇
+1,top10,9,9,S053,李鸿升,样本021,香港中文大学,香港中文大学,中国,458,458,篇
+1,top10,10,10,S115,郑伟诗,样本097,中山大学,中山大学,中国,455,455,篇
+1,bottom10,1,1,S016,Ruoshi Liu,样本049,University of Maryland,University of Maryland,美国,21,21,篇
+1,bottom10,2,2,S015,Minghan Li,样本015,Colorado School of Mines,Colorado School of Mines,美国,24,24,篇
+1,bottom10,3,3,S093,修宇亮,样本012,西湖大学,西湖大学,中国,30,30,篇
+1,bottom10,4,4,S022,Qianqian Wang,样本103,Harvard University,Harvard University,美国,33,33,篇
+1,bottom10,5,5,S088,王鹏帅,样本072,北京大学,北京大学,中国,37,37,篇
+1,bottom10,6,5,S066,刘圳,样本083,香港中文大学（深圳）,香港中文大学（深圳）,中国,37,37,篇
+1,bottom10,7,7,S031,陈安沛,样本061,西湖大学,西湖大学,中国,42,42,篇
+1,bottom10,8,8,S025,Shangzhe Wu,样本035,University of Cambridge,University of Cambridge,英国,44,44,篇
+1,bottom10,9,9,S098,徐梦迪,样本014,清华大学,清华大学,中国,45,45,篇
+1,bottom10,10,10,S012,Changjian Li,样本115,University of Edinburgh,University of Edinburgh,英国,46,46,篇
+2,top10,1,1,S119,左旺孟,样本102,哈尔滨工业大学,哈尔滨工业大学,中国,381,381,篇
+2,top10,2,2,S018,Ziwei Liu,样本044,Nanyang Technological University,Nanyang Technological University,新加坡,374,374,篇
+2,top10,3,3,S069,罗平,样本020,香港大学,香港大学,中国,333,333,篇
+2,top10,4,4,S053,李鸿升,样本021,香港中文大学,香港中文大学,中国,281,281,篇
+2,top10,5,5,S052,李冠彬,样本086,中山大学,中山大学,中国,265,265,篇
+2,top10,6,6,S037,窦琪,样本010,香港中文大学,香港中文大学,中国,263,263,篇
+2,top10,7,6,S117,周少华,样本068,中国科学技术大学,中国科学技术大学,中国,263,263,篇
+2,top10,8,8,S040,付彦伟,样本076,复旦大学,复旦大学,中国,252,252,篇
+2,top10,9,9,S102,叶茫,样本089,武汉大学,武汉大学,中国,241,241,篇
+2,top10,10,10,S076,山世光,样本095,中科院计算所,中科院计算所,中国,235,235,篇
+2,bottom10,1,1,S015,Minghan Li,样本015,Colorado School of Mines,Colorado School of Mines,美国,19,19,篇
+2,bottom10,2,1,S016,Ruoshi Liu,样本049,University of Maryland,University of Maryland,美国,19,19,篇
+2,bottom10,3,1,S066,刘圳,样本083,香港中文大学（深圳）,香港中文大学（深圳）,中国,19,19,篇
+2,bottom10,4,4,S022,Qianqian Wang,样本103,Harvard University,Harvard University,美国,25,25,篇
+2,bottom10,5,5,S088,王鹏帅,样本072,北京大学,北京大学,中国,27,27,篇
+2,bottom10,6,6,S093,修宇亮,样本012,西湖大学,西湖大学,中国,28,28,篇
+2,bottom10,7,7,S012,Changjian Li,样本115,University of Edinburgh,University of Edinburgh,英国,31,31,篇
+2,bottom10,8,8,S031,陈安沛,样本061,西湖大学,西湖大学,中国,33,33,篇
+2,bottom10,9,9,S098,徐梦迪,样本014,清华大学,清华大学,中国,34,34,篇
+2,bottom10,10,10,S005,Jun Gao,样本026,University of Michigan,University of Michigan,美国,36,36,篇
+3,top10,1,1,S119,左旺孟,样本102,哈尔滨工业大学,哈尔滨工业大学,中国,94,94,篇
+3,top10,2,2,S018,Ziwei Liu,样本044,Nanyang Technological University,Nanyang Technological University,新加坡,80,80,篇
+3,top10,3,3,S069,罗平,样本020,香港大学,香港大学,中国,74,74,篇
+3,top10,4,4,S075,齐晓娟,样本105,香港大学,香港大学,中国,73,73,篇
+3,top10,5,5,S076,山世光,样本095,中科院计算所,中科院计算所,中国,68,68,篇
+3,top10,6,6,S043,侯军辉,样本004,香港城市大学,香港城市大学,中国,65,65,篇
+3,top10,7,6,S102,叶茫,样本089,武汉大学,武汉大学,中国,65,65,篇
+3,top10,8,8,S071,穆尧,样本029,上海交通大学,上海交通大学,中国,64,64,篇
+3,top10,9,9,S052,李冠彬,样本086,中山大学,中山大学,中国,62,62,篇
+3,top10,10,9,S079,施柏鑫,样本093,北京大学,北京大学,中国,62,62,篇
+3,bottom10,1,1,S019,Jiebo Luo,样本009,University of Rochester,University of Rochester,美国,1,1,篇
+3,bottom10,2,1,S016,Ruoshi Liu,样本049,University of Maryland,University of Maryland,美国,1,1,篇
+3,bottom10,3,3,S015,Minghan Li,样本015,Colorado School of Mines,Colorado School of Mines,美国,2,2,篇
+3,bottom10,4,4,S001,Jon Barron,样本062,Google DeepMind,Google DeepMind,跨国企业（所在地未定）,5,5,篇
+3,bottom10,5,4,S066,刘圳,样本083,香港中文大学（深圳）,香港中文大学（深圳）,中国,5,5,篇
+3,bottom10,6,4,S115,郑伟诗,样本097,中山大学,中山大学,中国,5,5,篇
+3,bottom10,7,7,S022,Qianqian Wang,样本103,Harvard University,Harvard University,美国,6,6,篇
+3,bottom10,8,7,S012,Changjian Li,样本115,University of Edinburgh,University of Edinburgh,英国,6,6,篇
+3,bottom10,9,7,S083,宋杰,样本119,香港科技大学（广州）,香港科技大学（广州）,中国,6,6,篇
+3,bottom10,10,10,S013,Fuxin Li,样本017,Oregon State University,Oregon State University,美国,7,7,篇
+4,top10,1,1,S029,Jun-Yan Zhu,样本059,Carnegie Mellon University,Carnegie Mellon University,美国,1088.1351351351352,1088.1351351351352,次/篇
+4,top10,2,2,S009,Phillip Isola,样本038,MIT,MIT,美国,985.8911564625851,985.8911564625851,次/篇
+4,top10,3,3,S001,Jon Barron,样本062,Google DeepMind,Google DeepMind,跨国企业（所在地未定）,554.7832167832167,554.7832167832167,次/篇
+4,top10,4,4,S081,苏昊,样本041,复旦大学,复旦大学,中国,540.0771812080537,540.0771812080537,次/篇
+4,top10,5,5,S046,黄高,样本114,清华大学,清华大学,中国,418.9241877256318,418.9241877256318,次/篇
+4,top10,6,6,S006,Andreas Geiger,样本108,University of Tübingen,University of Tübingen,德国,354.0709677419355,354.0709677419355,次/篇
+4,top10,7,7,S103,弋力,样本003,清华大学,清华大学,中国,333.86507936507934,333.86507936507934,次/篇
+4,top10,8,8,S023,Yue Wang,样本088,University of Southern California,University of Southern California,美国,299.1829268292683,299.1829268292683,次/篇
+4,top10,9,9,S028,Bolei Zhou,样本113,UCLA,UCLA,美国,298.6326530612245,298.6326530612245,次/篇
+4,top10,10,10,S055,李翔,样本050,南开大学,南开大学,中国,297.94,297.94,次/篇
+4,bottom10,1,1,S061,刘桂良,样本047,香港中文大学（深圳）,香港中文大学（深圳）,中国,19.25974025974026,19.25974025974026,次/篇
+4,bottom10,2,2,S114,郑乾,样本031,浙江大学,浙江大学,中国,23.0188679245283,23.0188679245283,次/篇
+4,bottom10,3,3,S082,孙正隆,样本117,香港中文大学（深圳）,香港中文大学（深圳）,中国,24.6993006993007,24.6993006993007,次/篇
+4,bottom10,4,4,S045,胡瑞珍,样本112,深圳大学,深圳大学,中国,25.226277372262775,25.226277372262775,次/篇
+4,bottom10,5,5,S054,李坤,样本001,天津大学,天津大学,中国,26.019607843137255,26.019607843137255,次/篇
+4,bottom10,6,6,S092,夏俊,样本030,香港科技大学（广州）,香港科技大学（广州）,中国,33.85470085470085,33.85470085470085,次/篇
+4,bottom10,7,7,S117,周少华,样本068,中国科学技术大学,中国科学技术大学,中国,34.55965559655596,34.55965559655596,次/篇
+4,bottom10,8,8,S096,徐枫,样本099,清华大学,清华大学,中国,35.92528735632184,35.92528735632184,次/篇
+4,bottom10,9,9,S062,刘利刚,样本051,中国科学技术大学,中国科学技术大学,中国,36.0675,36.0675,次/篇
+4,bottom10,10,10,S111,章国锋,样本070,浙江大学,浙江大学,中国,36.527027027027025,36.527027027027025,次/篇
+5,top10,1,1,S080,苏航,样本033,清华大学,清华大学,中国,6639,6639,次
+5,top10,2,2,S018,Ziwei Liu,样本044,Nanyang Technological University,Nanyang Technological University,新加坡,6097,6097,次
+5,top10,3,3,S089,王兴刚,样本032,华中科技大学,华中科技大学,中国,4665,4665,次
+5,top10,4,4,S069,罗平,样本020,香港大学,香港大学,中国,4631,4631,次
+5,top10,5,5,S001,Jon Barron,样本062,Google DeepMind,Google DeepMind,跨国企业（所在地未定）,4400,4400,次
+5,top10,6,6,S029,Jun-Yan Zhu,样本059,Carnegie Mellon University,Carnegie Mellon University,美国,3451,3451,次
+5,top10,7,7,S113,赵恒爽,样本066,香港大学,香港大学,中国,3155,3155,次
+5,top10,8,8,S003,Mingyu Ding,样本022,UNC Chapel Hill,UNC Chapel Hill,美国,3133,3133,次
+5,top10,9,9,S051,李崇轩,样本016,中国人民大学,中国人民大学,中国,3081,3081,次
+5,top10,10,10,S086,王立元,样本096,清华大学,清华大学,中国,2786,2786,次
+5,bottom10,1,1,S054,李坤,样本001,天津大学,天津大学,中国,61,61,次
+5,bottom10,2,2,S061,刘桂良,样本047,香港中文大学（深圳）,香港中文大学（深圳）,中国,64,64,次
+5,bottom10,3,3,S082,孙正隆,样本117,香港中文大学（深圳）,香港中文大学（深圳）,中国,90,90,次
+5,bottom10,4,4,S057,连宙辉,样本075,北京大学,北京大学,中国,92,92,次
+5,bottom10,5,5,S013,Fuxin Li,样本017,Oregon State University,Oregon State University,美国,120,120,次
+5,bottom10,6,6,S045,胡瑞珍,样本112,深圳大学,深圳大学,中国,129,129,次
+5,bottom10,7,7,S025,Shangzhe Wu,样本035,University of Cambridge,University of Cambridge,英国,146,146,次
+5,bottom10,8,8,S058,梁俊卫,样本073,香港科技大学（广州）,香港科技大学（广州）,中国,158,158,次
+5,bottom10,9,9,S036,戴玉超,样本109,西北工业大学,西北工业大学,中国,170,170,次
+5,bottom10,10,10,S012,Changjian Li,样本115,University of Edinburgh,University of Edinburgh,英国,175,175,次

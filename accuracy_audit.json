@@ -1,0 +1,108 @@
+{
+  "created_at": "2026-10-16T09:39:19.430702+00:00",
+  "scope": "当前Google Scholar快照的完整分页、身份对应、作者证据和计算一致性核对；不等于对所有真实作品及引用的出版商独立审计。",
+  "snapshot": {
+    "scholars": 119,
+    "unique_GS_profiles": 119,
+    "raw_records": 26618,
+    "excluded_explicit_patents": 617,
+    "nonpatent_records": 26001,
+    "nonpatent_record_citation_sum": 3201435,
+    "2022_2026_nonpatent_records": 14230,
+    "first_author_candidates": 2168,
+    "confirmed_first_listed_author_records": 1746,
+    "excluded_first_listed_author_records": 54,
+    "unresolved_first_listed_author_candidates": 368,
+    "candidate_resolved_profiles": 59,
+    "reference_eligible_profiles": 58
+  },
+  "independent_checks": {
+    "raw_arithmetic_comparisons": 232325,
+    "raw_arithmetic_mismatches": 0,
+    "second_arithmetic_and_csv_comparisons": 38728,
+    "second_arithmetic_errors": 0,
+    "identity_row_failures": 0,
+    "GS_hindex_matches": 119,
+    "confirmed_author_evidence_items_checked": 1746,
+    "confirmed_evidence_check_failures": 0
+  },
+  "known_source_limits": {
+    "GS_estimated_citation_marked_records": 786,
+    "no_valid_year_records": 1178,
+    "invalid_year_records_in_no_valid_year": 2,
+    "normalized_title_extra_duplicate_candidates": 306,
+    "attribution_or_alias_review_records": 10,
+    "suspicious_early_year_records_retained": 9,
+    "same_paper_across_people_counted_separately": true,
+    "GS_source_years_retained": true,
+    "first_listed_author_only_not_all_cofirst": true,
+    "2026_is_partial_not_annualized": true,
+    "affiliation_and_rank_groups_use_PDF_labels": true,
+    "group_labels_not_entity_normalized": true
+  },
+  "GS_primary_method_source": "https://scholar.google.com/intl/en/scholar/citations.html",
+  "h_index_scope": "GS All headline, may include patents; remaining primary publication/citation indicators exclude explicit patents",
+  "changes_after_extra_QA": [
+    "个人详情i10和累计引用统一非专利口径",
+    "归属仍待核者移出一作参照排名",
+    "增加估算引用与归属待核字段",
+    "微小正比例不再四舍五入成0.0%",
+    "明确PDF职级与机构标签边界"
+  ],
+  "artifact_hashes": {
+    "scholar_master.csv": "d35074e76bfca488a722493eb3bc0dc0ebbb5dbede2e5195bb98c56bdd9ca0d0",
+    "statistics.json": "b28be82d1b7daec1f59e091fbdd06d43205c79662d1d77f8f7b756b27ec4e6a8",
+    "formal/figures.json": "6c82eda28ec77a38d32ecd6bec9b54f58c591d6de71462edc557d3bf1297d84a",
+    "formal/overview_3x3_anonymous.png": "f33f68fff131f7bd5fa5c008320ebcbaa594138fa994fe187cf2016cac5dfe72",
+    "formal/named_all_9_figures.zip": "4b41305ae427706cca8762f57f3c7fe51029d6170039df8720c063592e03e397"
+  },
+  "updated_at": "2026-10-16T13:54:59.949156+00:00",
+  "master_table": {
+    "scholars": 119,
+    "columns": 169,
+    "annual_count_columns": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "all_typed_csv_cells_match": true
+  },
+  "formal_delivery": {
+    "stage": "formal",
+    "user_review_approved": true,
+    "font": "DFPLiSong SC2; W5 body/W7 true-bold titles",
+    "anonymous_individual_pngs": 9,
+    "named_figures_zip_only": 9,
+    "overview_grid": [
+      3,
+      3
+    ],
+    "independent_all18_checks_passed": true,
+    "source_CSV_and_statistics_unchanged": true,
+    "minimum_point_label_gap_pixels": 24.64,
+    "statistics_cards_removed_from_page": true,
+    "formal_manifest_sha256": "6c82eda28ec77a38d32ecd6bec9b54f58c591d6de71462edc557d3bf1297d84a"
+  },
+  "prior_draft_review": {
+    "stage": "draft_for_user_review",
+    "source": "previously captured scholar_master.csv only",
+    "source_csv_sha256": "d35074e76bfca488a722493eb3bc0dc0ebbb5dbede2e5195bb98c56bdd9ca0d0",
+    "statistics_sha256": "b28be82d1b7daec1f59e091fbdd06d43205c79662d1d77f8f7b756b27ec4e6a8",
+    "figures": 18,
+    "formal_images_made": false,
+    "fixed_distribution_bin_widths": [
+      50,
+      20,
+      5,
+      25,
+      250
+    ],
+    "main_table_original_bytes_preserved": true,
+    "statistics_root_independent_checks_n": 1071,
+    "statistics_second_independent_checks_n": 935,
+    "web_legacy_seven_figures_and_below_removed": true,
+    "formal_font_requested": "DFPLiSong SC2; title bold; deferred until review complete"
+  }
+}
